@@ -18,16 +18,16 @@ Adidas collects large volumes of customer data but lacks the analytical depth to
 4. Customer Segmentation
 
 ## Key Insights
-- Write your first real finding here (example format: "Churn rate is highest in the X region at Y%")
-- Write your second finding here
-- Write your third finding here
+- Elite tier customers have the highest churn rate (44.8%), while Base tier customers have the lowest (22.5%).
+- Among customer regions, Asia-Pacific shows the highest churn (33.3%), while Europe and South America are lowest (about 24%).
+- Promotions were applied to 52.7% of transactions, and promoted purchases average 272.43 vs 258.79 without promotion (about 5% higher).
+- Online has the highest churn among store types (30.4%), while Franchise has the lowest (24.7%) and the highest average transaction value (271.47).
 
 ## Recommendations
-- Write your first recommendation here
-- Write your second recommendation here
-- Write your third recommendation here
+- Prioritize retention campaigns for Elite and Premium tier customers, whose churn (44.8% and 32.3%) is higher than Base and Plus.
+- Improve the online experience, since Online has the highest churn rate (30.4%) among store types.
+- Raise point redemption: only about 55-65% of earned points are redeemed across tiers, with Premium lowest at 55%.
 
 ## Files
-- Adidas_Retention.pbix: Power BI dashboard
-- Final_Report.pdf: Full project report
+- Adidas_-_Power_BI_Project.pbix: Power BI dashboard
 - screenshots/: Dashboard screenshots
